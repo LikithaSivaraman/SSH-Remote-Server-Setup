@@ -1,0 +1,10 @@
+##  Connecting to EC2 Instance
+
+1)Open a SSH client 
+2)Locate the private key
+3) connect the instance:ec2-user@ec2-54-86-105-111.compute-1.amazonaws.com (SSH) port:22 
+4)Auth type:private key
+5)Open the Instance.
+
+
+
