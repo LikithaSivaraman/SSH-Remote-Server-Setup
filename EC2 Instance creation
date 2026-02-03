@@ -1,0 +1,16 @@
+## STEP-1  (via GUI method)
+  Go to console :aws.amazon.com
+
+## STEP-2
+  EC2 --> Instances -->Launch Instance
+
+## STEP-3
+  Name : "Instance01", 
+  Application & OS Images:"Amazon Linux / MAcOS /Windows /Ubuntu.."
+  Instance Type: t3-micro / t2-micro ..(Free-tier)
+  Key Pair :Create a new Key pair(.pem / .ppk)
+  Networking: Select "VPC ,subnet , security group (existing) created"
+  Storage:Default.
+  
+## STEP-4
+   Launch instance.
